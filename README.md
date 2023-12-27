@@ -1,5 +1,3 @@
-## Spectral Data Analysis API
-
 # Astronomical Research Library
 
 Package: [https://test.pypi.org/project/spectral-data-analysis-Tempestly18/](https://test.pypi.org/project/spectral-data-analysis-Tempestly18/)
