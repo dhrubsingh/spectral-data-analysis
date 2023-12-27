@@ -20,8 +20,8 @@ This library assists in astronomical research, focusing on classifying stars, ga
 ## Installation
 
 ```bash
-git clone [repository URL]
-cd [project directory]
+git clone [git@github.com:dhrubsingh/spectral-data-analysis.git]
+cd [spectral-data-analysis]
 pip install .
 ```
 
