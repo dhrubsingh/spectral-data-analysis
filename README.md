@@ -19,9 +19,11 @@ This library assists in astronomical research, focusing on classifying stars, ga
 
 ## Installation
 
+First, clone the repository and navigate to the project directory:
+
 ```bash
-git clone [git@github.com:dhrubsingh/spectral-data-analysis.git]
-cd [spectral-data-analysis]
+git clone git@github.com:dhrubsingh/spectral-data-analysis.git
+cd spectral-data-analysis
 pip install .
 ```
 
