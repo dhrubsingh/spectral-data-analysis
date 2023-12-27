@@ -13,7 +13,7 @@ This library assists in astronomical research, focusing on classifying stars, ga
 - **Spectral Alignment**: Aligns wavelengths with interpolation.
 - **Visualization**: Matplotlib-based spectral visualization.
 - **Data Augmentation**: Derivative computations for spectra.
-- **Additional Modules**: machine learning classification, interactive visualization, spectral feature extraction.
+- **Additional Modules**: Machine learning classification, interactive visualization, spectral feature extraction.
 
 ## Installation
 
